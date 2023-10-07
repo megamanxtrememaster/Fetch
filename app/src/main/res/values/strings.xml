@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fetch</string>
+    <string name="error_msg">Error while retrieving the data, msg: %1$s</string>
+    <string name="loading">Loading</string>
+</resources>
